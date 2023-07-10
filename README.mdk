@@ -1,10 +1,20 @@
-irv- 👋 Hi, I’m @kitembui01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kitembui01/kitembui01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <DOCTYPE>
+<html>
+<head>Register for a given course</head>
+<body>
+<h1>Enter student name</h1>
+<input>text</input>
+<h2>Telephone number</h2>
+<input>number</input>
+<h3>Date of birth</h3>
+<input>date</input>
+<h4>Admission number</h4>
+<input>text</input>
+<h5>Identify the course</h5>
+<input>CBIT OR CIT</input>
+<h6>Gender option</h6>
+<input>name or female</input>
+<h7>Submit</h7>
+<input>yes or no</input>
+</body>
+</html>
