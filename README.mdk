@@ -1,7 +1,8 @@
  <DOCTYPE>
 <html>
 <head>Register for a given course</head>
-<body>
+<form>
+<body text="blue">
 <h1>Enter student name</h1>
 <input>text</input>
 <h2>Telephone number</h2>
@@ -14,7 +15,7 @@
 <input>CBIT OR CIT</input>
 <h6>Gender option</h6>
 <input>name or female</input>
-<h7>Submit</h7>
-<input>yes or no</input>
+<button type="submit">submit</button>
+</form>
 </body>
 </html>
